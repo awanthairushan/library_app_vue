@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    <LibraryPage/>
+  <div>
+    <div class="heading">My Library</div>
   </div>
 </template>
 
@@ -14,3 +14,7 @@ export default {
   }
 }
 </script>
+
+<style>
+
+</style>
